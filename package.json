@@ -1,5 +1,6 @@
 {
   "name": "weather-app",
+  "homepage": "https://ishimoron.github.io/weather-app",
   "version": "0.1.0",
   "private": false,
   "author": "Eugene Ishimov",
@@ -52,6 +53,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "node-sass": "^6.0.1"
   }
 }

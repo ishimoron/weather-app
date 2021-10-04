@@ -1,68 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9244094a-bbb6-4e15-8d8f-2cfaf8ca1a7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/weather-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Diagram.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Flex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Temperature.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Weather.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/SearchInput.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/weather-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Abel-Regular/Abel-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Abel-Regular/Abel-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Abel-Regular/Abel-Regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Abel-Regular/Abel-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Abel-Regular/Abel-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Abel-Regular/Abel-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/big_john/big_john.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/big_john/big_john.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/big_john/big_john.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/big_john/big_john.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/big_john/big_john.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/big_john/big_john.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/slim_joe/slim_joe.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/slim_joe/slim_joe.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/slim_joe/slim_joe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/slim_joe/slim_joe.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/slim_joe/slim_joe.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/slim_joe/slim_joe.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/weathericons/weathericons-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/weathericons/weathericons-regular-webfont.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/weathericons/weathericons-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/weathericons/weathericons-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/weathericons/weathericons-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/weathericons/weathericons-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_base.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_detail.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_diagram.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_geo.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_search.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_temperature.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_components/_theme-switcher.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_fonts.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_libs.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_media.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_mixins/_font-face.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/_vars.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/libs/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/libs/weather-icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/sass/main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/fetcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/iconsList.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/tempretureConverter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/timeConverter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    <list default="true" id="9244094a-bbb6-4e15-8d8f-2cfaf8ca1a7a" name="Default Changelist" comment="init app">
+      <change afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -195,7 +145,8 @@
       <workItem from="1633124747524" duration="6085000" />
       <workItem from="1633299064092" duration="5096000" />
       <workItem from="1633341734817" duration="246000" />
-      <workItem from="1633352705576" duration="12402000" />
+      <workItem from="1633352705576" duration="12607000" />
+      <workItem from="1633373393196" duration="785000" />
     </task>
     <servers />
   </component>
@@ -204,5 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init app" />
+    <option name="LAST_COMMIT_MESSAGE" value="init app" />
   </component>
 </project>
